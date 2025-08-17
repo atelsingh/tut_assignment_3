@@ -17,3 +17,10 @@ This Python script uses the built-in math module to perform three key mathematic
 ✅ Sine – Finds the sine of the number (in radians) using math.sin()
 
 ![Task 2](https://github.com/atelsingh/tut_assignment_3/blob/main/Task3.2.png)
+
+## 🚀 How to Run (Using PyCharm)
+
+1. Open the project in PyCharm.
+2. Locate `Task_3.1.py` or `Task_3.2.py` in the Project Explorer.
+3. Right-click the file and select Run 'Task_3.1' or Run '3Task_3.2'.
+4. View the output in the Run console at the bottom.
