@@ -16,4 +16,4 @@ This Python script uses the built-in math module to perform three key mathematic
 ✅ Natural Logarithm – Computes the natural log (base e) using math.log()
 ✅ Sine – Finds the sine of the number (in radians) using math.sin()
 
-![Task 2](images/your-image.png)
+![Task 2](https://github.com/atelsingh/tut_assignment_3/blob/main/Task3.2.png)
