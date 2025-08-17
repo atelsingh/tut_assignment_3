@@ -6,7 +6,7 @@ This repository contains two beginner-friendly Python scripts designed to reinfo
 ## 📘 Task 1:Factorial number
 This Python script calculates the factorial of a user-provided non-negative integer. It uses a simple loop or recursive function to compute the result and displays it interactively. This task helps users understand control flow, loops, and basic function usage in Python.
 
-![Factorial](https://github.com/atelsingh/tut_assignment_3/commit/a13bc0970eca80c3edd708d091fab04f25fccec1)
+![Task 1](https://github.com/atelsingh/tut_assignment_3/blob/main/Task3.1.png)
 
 
 ## 📘 Task 2: Using Math Module for function
@@ -16,4 +16,4 @@ This Python script uses the built-in math module to perform three key mathematic
 ✅ Natural Logarithm – Computes the natural log (base e) using math.log()
 ✅ Sine – Finds the sine of the number (in radians) using math.sin()
 
-![Alt text](images/your-image.png)
+![Task 2](images/your-image.png)
